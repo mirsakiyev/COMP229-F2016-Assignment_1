@@ -76,13 +76,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ContactPage.aspx" />
+    <Content Include="Content\StyleSheet.css" />
     <Content Include="Global.asax" />
     <Content Include="HomePage.aspx" />
-    <Content Include="Images\AslanLogo.png" />
-    <Content Include="Images\background.jpg" />
-    <Content Include="Images\backgroundtires.jpg" />
+    <Content Include="Assets\AslanLogo.png" />
+    <Content Include="Assets\background.jpg" />
+    <Content Include="Assets\backgroundtires.jpg" />
+    <Content Include="Assets\pictureOfMe.jpg" />
     <Content Include="ResumePage.aspx" />
-    <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
