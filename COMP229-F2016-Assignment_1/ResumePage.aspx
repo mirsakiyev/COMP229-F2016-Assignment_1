@@ -26,6 +26,13 @@
          <p>
          Personal Credo : "There are two ways to live: one is as if nothing is a miracle;
               the other as if everything is."</p>
+        <p>
+            Highlights:</p> 
+           <li>Responsible and punctual </li>
+
+             <li>Capable of working with people of all ages, races and ethnicities </li>
+             <li>A self-motivated team player, highly capable of learning new skills </li> 
+            
         <h1><img src="Assets/pictureOfMe.jpg" alt="Picture of me" width="300" height="410" /></h1>
                 
                    
