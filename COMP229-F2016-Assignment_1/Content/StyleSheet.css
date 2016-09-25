@@ -55,10 +55,12 @@ body {
             margin:10px 300px;
             padding: 0 5px;
             line-height: 30px;
-        }
+    width: 532px;
+}
 
         ul {
             list-style: none;
+            color: #15467c;
             padding: 0;
             margin: 0;
             line-height: 20px;
