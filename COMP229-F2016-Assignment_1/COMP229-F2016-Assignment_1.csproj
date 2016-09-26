@@ -75,6 +75,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\facebookLogo.png" />
+    <Content Include="Assets\githubLogo.png" />
+    <Content Include="Assets\instagramLogo.png" />
+    <Content Include="Assets\twitterLogo.png" />
     <Content Include="ContactPage.aspx" />
     <Content Include="Content\StyleSheet.css" />
     <Content Include="Global.asax" />

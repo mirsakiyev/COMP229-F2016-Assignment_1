@@ -23,7 +23,7 @@ body {
 
         h3 {
             font-size: 25px;
-            color: #fff;  
+            color: #5389d2;  
             background-color: #000000;           
             margin:0 300px;
             line-height: 150px;  
@@ -48,6 +48,8 @@ body {
             line-height: 17px;   
             text-align: left;      
         }
+
+      
          p {
             font-size: 20px;
             color: #000000;
@@ -55,7 +57,7 @@ body {
             margin:10px 300px;
             padding: 0 5px;
             line-height: 30px;
-    width: 532px;
+             width: 900px;
 }
 
         ul {
@@ -76,7 +78,7 @@ body {
         }
 
         a {
-            color: #fff;
+            color: #5389d2;
             text-decoration: none;
         }
 
