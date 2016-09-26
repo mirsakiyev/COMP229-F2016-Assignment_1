@@ -1,5 +1,9 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ContactPage.aspx.cs" Inherits="COMP229_F2016_Assignment_1.ContactPage" %>
 
+<%-- COMP229 Assignment 1 --%> 
+<%-- Author : Aslan Mirsakiyev --%> 
+<%-- Date : 25 of September --%>
+
 <!DOCTYPE html>
 
 
@@ -22,21 +26,23 @@
         <p>
             Email: <a href="mailto:mirsakiyev@yahoo.com">mirsakiyev@yahoo.com</a>
         </p>
-        
+        <br />
+        <p> Contact Form:</p>
         <p>       
-
-            <%-- TODO: Simple email form --%> 
-        <form action="mailto:mirsakiyev@yahoo.com" method="post" enctype="text/plain">
-            Name:
+           
+            <%-- TODO: Simple contact form --%> 
+        <form  method="post" enctype="text/plain">
+             Name:
         <input type="text" name="name"> &nbsp&nbsp&nbsp&nbsp
-             E-mail:
-        <input type="email" name="email" style="width: 227px"> &nbsp&nbsp&nbsp&nbsp<br/> 
+             Contact number:
+        <input type="tel" name="number" style="width: 185px"> &nbsp&nbsp&nbsp&nbsp<br/> 
             Type your message: 
-        <input type="text" name="emailText" size="35" style="height: 17px; width: 371px"><br/>
+        <input type="text" name="phoneNumber" size="35" style="height: 17px; width: 371px"><br/>
         <input type="submit" value="Send"" style="height: 30px; width: 100px"> &nbsp&nbsp
         <input type="reset" value="Reset" style="height: 30px; width: 100px" > <br />
         </form>
         </p>
+        <br />
         <p> 
             
             Mobile Phone: <a href="tel:+16477031920">(647)-703-1920</a>

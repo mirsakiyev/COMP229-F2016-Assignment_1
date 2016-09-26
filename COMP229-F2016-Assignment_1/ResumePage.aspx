@@ -1,5 +1,9 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ResumePage.aspx.cs" Inherits="COMP229_F2016_Assignment_1.ResumePage" %>
 
+<%-- COMP229 Assignment 1 --%> 
+<%-- Author : Aslan Mirsakiyev --%> 
+<%-- Date : 25 of September --%> 
+
 <!DOCTYPE html>
 
 
